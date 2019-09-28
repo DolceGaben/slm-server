@@ -1,0 +1,14 @@
+C:\Users\Vito\source\repos\SLM\SLM\bin\Debug\netcoreapp2.2\SLM.deps.json
+C:\Users\Vito\source\repos\SLM\SLM\bin\Debug\netcoreapp2.2\SLM.runtimeconfig.json
+C:\Users\Vito\source\repos\SLM\SLM\bin\Debug\netcoreapp2.2\SLM.runtimeconfig.dev.json
+C:\Users\Vito\source\repos\SLM\SLM\bin\Debug\netcoreapp2.2\SLM.dll
+C:\Users\Vito\source\repos\SLM\SLM\bin\Debug\netcoreapp2.2\SLM.pdb
+C:\Users\Vito\source\repos\SLM\SLM\obj\Debug\netcoreapp2.2\SLM.csproj.CoreCompileInputs.cache
+C:\Users\Vito\source\repos\SLM\SLM\obj\Debug\netcoreapp2.2\SLM.RazorAssemblyInfo.cache
+C:\Users\Vito\source\repos\SLM\SLM\obj\Debug\netcoreapp2.2\SLM.RazorAssemblyInfo.cs
+C:\Users\Vito\source\repos\SLM\SLM\obj\Debug\netcoreapp2.2\SLM.AssemblyInfoInputs.cache
+C:\Users\Vito\source\repos\SLM\SLM\obj\Debug\netcoreapp2.2\SLM.AssemblyInfo.cs
+C:\Users\Vito\source\repos\SLM\SLM\obj\Debug\netcoreapp2.2\SLM.RazorTargetAssemblyInfo.cache
+C:\Users\Vito\source\repos\SLM\SLM\obj\Debug\netcoreapp2.2\SLM.dll
+C:\Users\Vito\source\repos\SLM\SLM\obj\Debug\netcoreapp2.2\SLM.pdb
+C:\Users\Vito\source\repos\SLM\SLM\obj\Debug\netcoreapp2.2\SLM.csprojAssemblyReference.cache
